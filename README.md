@@ -1,2 +1,2 @@
 # DataStructure collection from simple List to LCA and so on
-DataStructure_Method
+Data_Structures_Method_Fast_Implementation_for_Competitive_Programming
